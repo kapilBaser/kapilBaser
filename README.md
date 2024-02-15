@@ -22,7 +22,7 @@ Learning by doing projects.
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working on my side project Idea  
   
@@ -31,10 +31,6 @@ Learning by doing projects.
   
 
 - ⚡ Fun fact: App Dev is easy...  
-
-
-</td><td valign="top" width="50%">
-
 
 
 </td></tr></table>  
