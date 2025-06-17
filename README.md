@@ -1,4 +1,4 @@
-## Hey 👋, I'm Kapil Baser (Android Native Developer)  
+## Hey 👋, I'm Kapil Baser (Software Developer)  
   
 
 <a href="https://github.com/kapilBaser" target="_blank">
@@ -24,13 +24,12 @@ Learning by doing projects.
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working on my side project Idea  
-  
+- 🔭 I’m currently working on Howsyou  
 
-- 🌱 I’m currently learning Advanced Android  
-  
+- 🌱 I’m currently learning to build real world things 
 
-- ⚡ Fun fact: App Dev is easy...  
+- ⚡ Fun fact: Everything is looks easy until you went to backend side
+- 
 
 
 </td></tr></table>  
